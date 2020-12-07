@@ -126,7 +126,7 @@ You might also want PyTango. Python binaries can be installed from the official 
 
 .. code-block:: console
 
-       $> apt install python3-pytango
+       $> apt install python3-tango
 
 or if you need specifically Python2
 
